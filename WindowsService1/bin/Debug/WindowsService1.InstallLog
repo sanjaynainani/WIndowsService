@@ -1,0 +1,26 @@
+﻿Installing assembly 'C:\Users\sanjay.nainani\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sanjay.nainani\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sanjay.nainani\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service WindowsService1...
+Service WindowsService1 has been successfully installed.
+Creating EventLog source WindowsService1 in log Application...
+Committing assembly 'C:\Users\sanjay.nainani\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sanjay.nainani\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sanjay.nainani\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing assembly 'C:\Users\sanjay.nainani\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sanjay.nainani\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sanjay.nainani\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service WindowsService1...
+Creating EventLog source WindowsService1 in log Application...
+Rolling back assembly 'C:\Users\sanjay.nainani\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sanjay.nainani\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\sanjay.nainani\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source WindowsService1.
